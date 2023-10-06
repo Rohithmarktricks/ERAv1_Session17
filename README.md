@@ -3,6 +3,8 @@
 This repository contains the source code to the transformer model (that supports the variants such as BERT, GPT, ViT)
 
 base module: [transformer.py][def]
+
+
 [def]: transformer/transformer.py
 
 Refer to the [bert.ipynb][def2], [gpt.ipynb][def3] and [vit_2.ipynb][def4] for the implementation of BERT, GPT and ViT model respectively.
